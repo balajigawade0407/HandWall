@@ -83,9 +83,15 @@ python main.py
 
 ## Author
 
-Latasha Nayak
+Exploring this project and getting it running on my local machine was a really exciting experience!
 
-B.Tech Computer Science and Engineering
+I went through the project, understood its basic workflow, set up the required Python environment, and worked through a few dependency and compatibility issues along the way.
+
+Seeing the virtual handwriting system actually work using hand gestures and a webcam was genuinely exciting. It was a great opportunity to explore computer vision, Python, OpenCV, and MediaPipe in practice.
+
+This experience motivated me to learn more, experiment with the project, and understand how hand-tracking technology can be used to create interactive applications.
+
+**A small project, a great learning experience, and lots more to explore!** 🚀
 
 ## License
 
